@@ -1,0 +1,30 @@
+{
+    "pages": [
+      {
+        "path": "/",
+        "title": "MyWebClass.org"
+      },
+
+         {
+        "path": "/About",
+        "title": "MyWebClass.org"
+      },
+         {
+        "path": "/blog",
+        "title": "MyWebClass.org"
+      },
+         {
+        "path": "/contact",
+        "title": "MyWebClass.org"
+      },   {
+        "path": "/Resources",
+        "title": "MyWebClass.org"
+      },
+      {
+        "path": "/services",
+        "title": "MyWebClass.org"
+      }
+
+    ]
+}
+  
