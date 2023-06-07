@@ -19,7 +19,7 @@ export default function Home() {
 
     <div className={utilStyles.container} style={{
     background: `url(${ isProd ?
-    '/project-2-team-kks': ''
+    '/Khushbu-NextJS': ''
     }/images/img.png) no-repeat center center fixed`,backgroundSize: 'cover',}}>
       <Head>
         <title>MyWebClass.org</title>

@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6c7eec9-81e7-4a32-ae45-11eb23a6d173" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/pre-rendering.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/ssg-ssr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Resources.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Resources.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/services.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/PycharmProjects/project-2-team-kks"
+    "last_opened_file_path": "C:/Users/H_pat/PycharmProjects/Khushbu-NestJS"
   }
 }]]></component>
   <component name="RecentsManager">
