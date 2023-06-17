@@ -23,7 +23,7 @@ function Home() {
     <div className={utilStyles.container} >
     <div className={utilStyles.background} style={{
     background: `url(${ isProd ?
-    '/Khushbu-NextJS': ''
+    '/Khushbu-NestJS': ''
     }/images/img.png) no-repeat center center fixed`,backgroundSize: 'cover',}}>
 <div className={utilStyles.background}>
       <Head>
